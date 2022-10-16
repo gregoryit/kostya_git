@@ -1,2 +1,6 @@
 print('hello world')
 print('world hello')
+
+a = 5
+b = 6
+print(a + b)
